@@ -2,6 +2,9 @@
 
 Translate English sentences and words into groot tongue.
 
+### Demo
+https://groot-tongue.netlify.app/
+
 ## Tech used
 
 * HTML
