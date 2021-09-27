@@ -1,4 +1,4 @@
-const apiURL = "https://api.funtranslations.com/translate/minion.json";
+const apiURL = "https://api.funtranslations.com/translate/groot.json";
 
 let loading = false;
 

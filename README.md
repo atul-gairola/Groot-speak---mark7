@@ -1,14 +1,10 @@
 # Minions Speak
 
-Translate English sentences and words into minion tongue.
-
-### Demo
-
-https://minion-tongue-converter.netlify.app/
+Translate English sentences and words into groot tongue.
 
 ## Tech used
 
 * HTML
 * CSS
 * JS
-* API - (https://api.funtranslations.com/translate/minion.json)
+* API - (https://api.funtranslations.com/translate/groot.json)
