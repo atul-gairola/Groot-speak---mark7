@@ -1,4 +1,4 @@
-# Minions Speak
+# Groot Speak
 
 Translate English sentences and words into groot tongue.
 
